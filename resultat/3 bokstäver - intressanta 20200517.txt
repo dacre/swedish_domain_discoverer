@@ -1,0 +1,11 @@
+['ikx.se', 'free']
+['ckx.se', 'free']
+['dgx.se', 'free']
+['egx.se', 'free']
+['ixy.se', 'free']
+['lsy.se', 'free']
+['nxy.se', 'free']
+['puy.se', 'free']
+['rsz.se', 'free']
+['rxy.se', 'free']
+	

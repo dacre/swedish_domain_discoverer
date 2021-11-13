@@ -1,0 +1,3 @@
+['egalt.se', 'free']
+['plita.se', 'free']
+['strof.se', 'free']
